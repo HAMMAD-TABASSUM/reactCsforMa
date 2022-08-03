@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg-image-signup {
+  background-image: url("../images/bg-image-signup.png");
+}
+
+.main-container {
+  width: 900px;
+}
+
+.header-width {
+  width: calc(100vw - 160px);
+}
+
+.height-img {
+  height: 500px;
+}
+
+.active {
+  background-color: #005090;
+}
+
+.bg-blue {
+  background-color: #0063b2;
+}
+
+.text-blue {
+  color: #0063b2;
+}
+
+.bg-green {
+  background-color: #eefafa;
+}
+
+.btn-bg-blue {
+  background-color: #004f9019;
+}
+
+.bg-blacks {
+  background-color: rgb(0, 0, 0);
+}
+.dropdown:focus-within .dropdown-menu {
+  opacity: 1;
+  transform: translate(0) scale(1);
+  visibility: visible;
+}

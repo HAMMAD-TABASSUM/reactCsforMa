@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Group_18" data-name="Group 18" transform="translate(4 4)">
+    <g id="Mask" fill="#0063b2" stroke="#fff" stroke-miterlimit="10" stroke-width="4">
+      <circle cx="18.5" cy="18.5" r="18.5" stroke="none"/>
+      <circle cx="18.5" cy="18.5" r="20.5" fill="none"/>
+    </g>
+    <g id="add_a_photo-24px" transform="translate(9 9)">
+      <path id="Path" d="M0,0H19V19H0Z" fill="none"/>
+      <path id="Shape" d="M4.13,17a1.641,1.641,0,0,1-1.652-1.619V8.1H4.13v7.286H17.347V5.666H14L12.49,4.047H8.261V2.428h4.956l1.512,1.619h2.618A1.641,1.641,0,0,1,19,5.666v9.715A1.641,1.641,0,0,1,17.347,17Zm2.479-6.476a4.131,4.131,0,1,1,4.13,4.047A4.091,4.091,0,0,1,6.609,10.524ZM2.479,6.476V4.047H0V2.428H2.479V0H4.13V2.428H6.609V4.047H4.13V6.476Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

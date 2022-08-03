@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="58" viewBox="0 0 58 58">
+  <defs>
+    <filter id="Oval" x="0" y="0" width="58" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_21_Copy_2" data-name="Group 21 Copy 2" transform="translate(15 10)">
+    <g transform="matrix(1, 0, 0, 1, -15, -10)" filter="url(#Oval)">
+      <circle id="Oval-2" data-name="Oval" cx="14" cy="14" r="14" transform="translate(15 10)" fill="#fff"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(7 8)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M0,.193,14,.207" transform="translate(0 5.3)" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M0,0,5,5,0,10" transform="translate(9 0.5)" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
